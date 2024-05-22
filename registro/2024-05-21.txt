@@ -1,0 +1,1012 @@
+2024-05-21 09:05:29 - Modificación de registro: 
+Detalles del registro:
+ID: 18
+Datos anteriores:
+ID: 18
+Nombre: PATON
+Especie: G
+Raza: ROTTWILLER
+Edad: VHJ
+Color: V
+Sexo: VHJJVH
+Dueño: HVJ
+Dirección: HVJ
+Ciudad: V
+Teléfono: 6556589
+Email: NASJ@KAS.OM
+
+Datos actualizados:
+ID: 18
+Nombre: PATONCITO
+Especie: G
+Raza: ROTTWILLER
+Edad: VHJ
+Color: V
+Sexo: VHJJVH
+Dueño: HVJ
+Dirección: HVJ
+Ciudad: V
+Teléfono: 6556589
+Email: NASJ@KAS.OM
+
+
+2024-05-21 09:05:29 - Actualización de registro: 
+Detalles del registro:
+ID: 18
+Datos anteriores:
+ID: 18
+Nombre: PATON
+Especie: G
+Raza: ROTTWILLER
+Edad: VHJ
+Color: V
+Sexo: VHJJVH
+Dueño: HVJ
+Dirección: HVJ
+Ciudad: V
+Teléfono: 6556589
+Email: NASJ@KAS.OM
+
+Datos actualizados:
+ID: 18
+Nombre: PATONCITO
+Especie: G
+Raza: ROTTWILLER
+Edad: VHJ
+Color: V
+Sexo: VHJJVH
+Dueño: HVJ
+Dirección: HVJ
+Ciudad: V
+Teléfono: 6556589
+Email: NASJ@KAS.OM
+
+
+2024-05-21 09:07:09 - Modificación de registro: 
+Detalles del registro:
+ID: 17
+Datos anteriores:
+ID: 17
+Nombre: PEBETE
+Especie: HSDBJDKBKB
+Raza: KJ
+Edad: H
+Color: H
+Sexo: HIG
+Dueño: IG
+Dirección: HGHGIG
+Ciudad: BH
+Teléfono: 6472057
+Email: JHAHSU@HIASH.COM
+
+Datos actualizados:
+ID: 17
+Nombre: PEBETITO
+Especie: HSDBJDKBKB
+Raza: KJ
+Edad: H
+Color: H
+Sexo: HIG
+Dueño: IG
+Dirección: HGHGIG
+Ciudad: BH
+Teléfono: 6472057
+Email: JHAHSU@HIASH.COM
+
+
+2024-05-21 09:07:09 - Actualización de registro: 
+Detalles del registro:
+ID: 17
+Datos anteriores:
+ID: 17
+Nombre: PEBETE
+Especie: HSDBJDKBKB
+Raza: KJ
+Edad: H
+Color: H
+Sexo: HIG
+Dueño: IG
+Dirección: HGHGIG
+Ciudad: BH
+Teléfono: 6472057
+Email: JHAHSU@HIASH.COM
+
+Datos actualizados:
+ID: 17
+Nombre: PEBETITO
+Especie: HSDBJDKBKB
+Raza: KJ
+Edad: H
+Color: H
+Sexo: HIG
+Dueño: IG
+Dirección: HGHGIG
+Ciudad: BH
+Teléfono: 6472057
+Email: JHAHSU@HIASH.COM
+
+
+2024-05-21 09:07:29 - Ingreso de nuevo registro: 
+Detalles del registro:
+Nombre: POROTO, Especie: JSDJ, Raza: N, Edad: , Color: , Sexo: HKBHKB, Dueño: KJ, Dirección: KJB, Ciudad: KJB, Teléfono: 55687612032, Email: NSDBJ@JKSKJ.COM
+
+2024-05-21 09:07:29 - Ingreso de nuevo registro: 
+Detalles del registro:
+None
+
+2024-05-21 09:24:40 - Eliminación de registro: 
+Detalles del registro:
+None
+
+2024-05-21 09:31:26 - Eliminación de registro: 
+Detalles del registro:
+None
+
+2024-05-21 09:35:05 - Eliminación de registro: 
+Detalles del registro:
+ID: 21
+
+2024-05-21 09:35:05 - Eliminación de registro: 
+Detalles del registro:
+None
+
+2024-05-21 09:39:23 - Eliminación de registro: 
+Detalles del registro:
+ID: 18, Nombre: PATONCITO, Especie: G, Raza: ROTTWILLER, Edad: VHJ, Color: V, Sexo: VHJJVH, Dueño: HVJ, Dirección: HVJ, Ciudad: V, Teléfono: 6556589, Email: NASJ@KAS.OM
+
+2024-05-21 09:39:23 - Eliminación de registro: 
+Detalles del registro:
+None
+
+2024-05-21 09:46:17 - Eliminación de registro: 
+Detalles del registro:
+ID: 17, Nombre: PEBETITO, Especie: HSDBJDKBKB, Raza: KJ, Edad: H, Color: H, Sexo: HIG, Dueño: IG, Dirección: HGHGIG, Ciudad: BH, Teléfono: 6472057, Email: JHAHSU@HIASH.COM
+
+2024-05-21 09:47:47 - Ingreso de nuevo registro: 
+Detalles del registro:
+Nombre: PEPITO, Especie: PITBUL, Raza: PITBUL, Edad: 4, Color: CROJO, Sexo: HEMBRA, Dueño: PEP, Dirección: SXBH, Ciudad: ROSARIO, Teléfono: 546423122, Email: HAS@HOTMAIL.COM
+
+2024-05-21 09:47:47 - Ingreso de nuevo registro: 
+Detalles del registro:
+None
+
+2024-05-21 10:02:32 - Ingreso de nuevo registro: 
+Detalles del registro:
+Nombre: PEPO, Especie: JAJSK, Raza: PITBUL, Edad: NAJSJ, Color: JJKJ, Sexo: BKJ, Dueño: JBJ, Dirección: B, Ciudad: BH, Teléfono: 5421334, Email: BHSAH@HOTMAIL.COM
+
+2024-05-21 10:22:41 - Ingreso de nuevo registro: 
+Detalles del registro:
+Nombre: COPITO, Especie: CONEJO, Raza: CONEJO, Edad: 4, Color: BJSKJB, Sexo: JBBJ, Dueño: BBB, Dirección: HB, Ciudad: HBJL, Teléfono: 3216815, Email: KJBASBS@HOTMAIL.COM
+
+2024-05-21 10:23:42 - Modificación de registro: 
+Detalles del registro:
+ID: 24
+Datos anteriores:
+ID: 24
+Nombre: PEPITO
+Especie: PITBUL
+Raza: PITBUL
+Edad: 4
+Color: CROJO
+Sexo: HEMBRA
+Dueño: PEP
+Dirección: SXBH
+Ciudad: ROSARIO
+Teléfono: 546423122
+Email: HAS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 24
+Nombre: ARANDANO
+Especie: PITBUL
+Raza: PITBUL
+Edad: 4
+Color: CROJO
+Sexo: HEMBRA
+Dueño: PEP
+Dirección: SXBH
+Ciudad: ROSARIO
+Teléfono: 546423122
+Email: HAS@HOTMAIL.COM
+
+
+2024-05-21 10:23:42 - Actualización de registro: 
+Detalles del registro:
+ID: 24
+Datos anteriores:
+ID: 24
+Nombre: PEPITO
+Especie: PITBUL
+Raza: PITBUL
+Edad: 4
+Color: CROJO
+Sexo: HEMBRA
+Dueño: PEP
+Dirección: SXBH
+Ciudad: ROSARIO
+Teléfono: 546423122
+Email: HAS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 24
+Nombre: ARANDANO
+Especie: PITBUL
+Raza: PITBUL
+Edad: 4
+Color: CROJO
+Sexo: HEMBRA
+Dueño: PEP
+Dirección: SXBH
+Ciudad: ROSARIO
+Teléfono: 546423122
+Email: HAS@HOTMAIL.COM
+
+
+2024-05-21 10:28:44 - Modificación de registro: 
+Detalles del registro:
+ID: 26
+Datos anteriores:
+ID: 26
+Nombre: COPITO
+Especie: CONEJO
+Raza: CONEJO
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 26
+Nombre: COPITIN
+Especie: CONEJO
+Raza: CONEJO
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+
+2024-05-21 10:28:44 - Modificación de registro: 
+Detalles del registro:
+ID: 26
+Datos anteriores:
+ID: 26
+Nombre: COPITO
+Especie: CONEJO
+Raza: CONEJO
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 26
+Nombre: COPITIN
+Especie: CONEJO
+Raza: CONEJO
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+
+2024-05-21 10:31:02 - Modificación de registro: 
+Detalles del registro:
+ID: 24
+Datos anteriores:
+ID: 24
+Nombre: ARANDANO
+Especie: PITBUL
+Raza: PITBUL
+Edad: 4
+Color: CROJO
+Sexo: HEMBRA
+Dueño: PEP
+Dirección: SXBH
+Ciudad: ROSARIO
+Teléfono: 546423122
+Email: HAS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 24
+Nombre: BROWN
+Especie: PITBUL
+Raza: PITBUL
+Edad: 4
+Color: CROJO
+Sexo: HEMBRA
+Dueño: PEP
+Dirección: SXBH
+Ciudad: ROSARIO
+Teléfono: 546423122
+Email: HAS@HOTMAIL.COM
+
+
+2024-05-21 10:31:02 - Modificación de registro: 
+Detalles del registro:
+ID: 24
+Datos anteriores:
+ID: 24
+Nombre: ARANDANO
+Especie: PITBUL
+Raza: PITBUL
+Edad: 4
+Color: CROJO
+Sexo: HEMBRA
+Dueño: PEP
+Dirección: SXBH
+Ciudad: ROSARIO
+Teléfono: 546423122
+Email: HAS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 24
+Nombre: BROWN
+Especie: PITBUL
+Raza: PITBUL
+Edad: 4
+Color: CROJO
+Sexo: HEMBRA
+Dueño: PEP
+Dirección: SXBH
+Ciudad: ROSARIO
+Teléfono: 546423122
+Email: HAS@HOTMAIL.COM
+
+
+2024-05-21 10:35:18 - Modificación de registro: 
+Detalles del registro:
+ID: 24
+Datos anteriores:
+ID: 24
+Nombre: BROWN
+Especie: PITBUL
+Raza: PITBUL
+Edad: 4
+Color: CROJO
+Sexo: HEMBRA
+Dueño: PEP
+Dirección: SXBH
+Ciudad: ROSARIO
+Teléfono: 546423122
+Email: HAS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 24
+Nombre: BROWN
+Especie: CAN
+Raza: PITBUL
+Edad: 4
+Color: ROJO
+Sexo: HEMBRA
+Dueño: PEP
+Dirección: SXBH
+Ciudad: ROSARIO
+Teléfono: 546423122
+Email: HAS@HOTMAIL.COM
+
+
+2024-05-21 10:36:16 - Modificación de registro: 
+Detalles del registro:
+ID: 23
+Datos anteriores:
+ID: 23
+Nombre: POROTO
+Especie: JSDJ
+Raza: N
+Edad: 
+Color: 
+Sexo: HKBHKB
+Dueño: KJ
+Dirección: KJB
+Ciudad: KJB
+Teléfono: 55687612032
+Email: NSDBJ@JKSKJ.COM
+
+Datos actualizados:
+ID: 23
+Nombre: POROTO
+Especie: JSDJ
+Raza: N
+Edad: 55
+Color: VERDE
+Sexo: HKBHKB
+Dueño: KJ
+Dirección: KJB
+Ciudad: KJB
+Teléfono: 55687612032
+Email: NSDBJ@JKSKJ.COM
+
+
+2024-05-21 10:40:49 - Modificación de registro: 
+Detalles del registro:
+ID: 23
+Datos anteriores:
+ID: 23
+Nombre: POROTO
+Especie: JSDJ
+Raza: N
+Edad: 55
+Color: VERDE
+Sexo: HKBHKB
+Dueño: KJ
+Dirección: KJB
+Ciudad: KJB
+Teléfono: 55687612032
+Email: NSDBJ@JKSKJ.COM
+
+Datos actualizados:
+ID: 23
+Nombre: POROTITO
+Especie: JSDJ
+Raza: N
+Edad: 55
+Color: VERDE
+Sexo: HKBHKB
+Dueño: KJ
+Dirección: KJB
+Ciudad: KJB
+Teléfono: 55687612032
+Email: NSDBJ@JKSKJ.COM
+
+
+2024-05-21 10:41:17 - Modificación de registro: 
+Detalles del registro:
+ID: 23
+Datos anteriores:
+ID: 23
+Nombre: POROTITO
+Especie: JSDJ
+Raza: N
+Edad: 55
+Color: VERDE
+Sexo: HKBHKB
+Dueño: KJ
+Dirección: KJB
+Ciudad: KJB
+Teléfono: 55687612032
+Email: NSDBJ@JKSKJ.COM
+
+Datos actualizados:
+ID: 23
+Nombre: POROTON
+Especie: JSDJ
+Raza: N
+Edad: 55
+Color: VERDE
+Sexo: HKBHKB
+Dueño: KJ
+Dirección: KJB
+Ciudad: KJB
+Teléfono: 55687612032
+Email: NSDBJ@JKSKJ.COM
+
+
+2024-05-21 15:13:50 - Modificación de registro: 
+Detalles del registro:
+ID: 26
+Datos anteriores:
+ID: 26
+Nombre: COPITIN
+Especie: CONEJO
+Raza: CONEJO
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 26
+Nombre: COPITo
+Especie: CONEJO
+Raza: CONEJO
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+
+2024-05-21 15:37:01 - Modificación de registro: 
+Detalles del registro:
+ID: 26
+Datos anteriores:
+ID: 26
+Nombre: COPITo
+Especie: CONEJO
+Raza: CONEJO
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 26
+Nombre: COPITOO
+Especie: CONEJO
+Raza: CONEJO
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+
+2024-05-21 15:37:01 - Modificación de registro: 
+Detalles del registro:
+ID: 26
+Datos anteriores:
+ID: 26
+Nombre: COPITo
+Especie: CONEJO
+Raza: CONEJO
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 26
+Nombre: COPITOO
+Especie: CONEJO
+Raza: CONEJO
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+
+2024-05-21 15:42:16 - Modificación de registro: 
+Detalles del registro:
+ID: 26
+Datos anteriores:
+ID: 26
+Nombre: COPITOO
+Especie: CONEJO
+Raza: CONEJO
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 26
+Nombre: COPITO
+Especie: CONEJO
+Raza: CONEJO
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+
+2024-05-21 19:08:49 - Actualización de razas peligrosas: 
+Detalles del registro:
+Pit Bull
+Rottweiler
+Dogo Argentino
+Fila Brasileiro
+Tosa Inu
+Akita Inu
+American Staffordshire Terrier
+Staffordshire Bull Terrier
+Doberman
+
+2024-05-21 19:09:27 - Ingreso de nuevo registro: 
+Detalles del registro:
+Nombre: POROTO, Especie: PEP, Raza: ROTTWEILLER, Edad: 5, Color: HJD, Sexo: NKJ, Dueño: JKBHB, Dirección: HBKHB, Ciudad: HBHJB, Teléfono: 1546532132, Email: LKASJDS@HOTMAIL.COM
+
+2024-05-21 19:09:50 - Modificación de registro: 
+Detalles del registro:
+ID: 12
+Datos anteriores:
+ID: 12
+Nombre: CHOLATOSO
+Especie: hvj
+Raza: v
+Edad: vb
+Color: v
+Sexo: gv
+Dueño: g
+Dirección: hg
+Ciudad: hgh
+Teléfono: hg
+Email: 5645
+
+Datos actualizados:
+ID: 12
+Nombre: CHOLATOSO
+Especie: hvj
+Raza: v
+Edad: vb
+Color: v
+Sexo: gv
+Dueño: g
+Dirección: hg
+Ciudad: hgh
+Teléfono: hg
+Email: 5ASJBKJDAJBKSBADB@HOTMAIL.COM
+
+
+2024-05-21 19:18:30 - Actualización de razas peligrosas: 
+Detalles del registro:
+Pit Bull
+Rottweiler
+Dogo Argentino
+Fila Brasileiro
+Tosa Inu
+Akita Inu
+American Staffordshire Terrier
+Staffordshire Bull Terrier
+Doberman
+
+2024-05-21 19:19:07 - Modificación de registro: 
+Detalles del registro:
+ID: 27
+Datos anteriores:
+ID: 27
+Nombre: POROTO
+Especie: PEP
+Raza: ROTTWEILLER
+Edad: 5
+Color: HJD
+Sexo: NKJ
+Dueño: JKBHB
+Dirección: HBKHB
+Ciudad: HBHJB
+Teléfono: 1546532132
+Email: LKASJDS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 27
+Nombre: POROTO
+Especie: PEP
+Raza: Pit Bull
+Edad: 5
+Color: HJD
+Sexo: NKJ
+Dueño: JKBHB
+Dirección: HBKHB
+Ciudad: HBHJB
+Teléfono: 1546532132
+Email: LKASJDS@HOTMAIL.COM
+
+
+2024-05-21 20:32:37 - Modificación de registro: 
+Detalles del registro:
+ID: 27
+Datos anteriores:
+ID: 27
+Nombre: POROTO
+Especie: PEP
+Raza: Pit Bull
+Edad: 5
+Color: HJD
+Sexo: NKJ
+Dueño: JKBHB
+Dirección: HBKHB
+Ciudad: HBHJB
+Teléfono: 1546532132
+Email: LKASJDS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 27
+Nombre: POROTITO
+Especie: PEP
+Raza: Pit Bull
+Edad: 5
+Color: HJD
+Sexo: NKJ
+Dueño: JKBHB
+Dirección: HBKHB
+Ciudad: HBHJB
+Teléfono: 1546532132
+Email: LKASJDS@HOTMAIL.COM
+
+
+2024-05-21 20:33:32 - Modificación de registro: 
+Detalles del registro:
+ID: 26
+Datos anteriores:
+ID: 26
+Nombre: COPITO
+Especie: CONEJO
+Raza: CONEJO
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 26
+Nombre: COPITO
+Especie: CONEJO
+Raza: Pit Bull
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+
+2024-05-21 20:36:15 - Modificación de registro: 
+Detalles del registro:
+ID: 25
+Datos anteriores:
+ID: 25
+Nombre: PEPO
+Especie: JAJSK
+Raza: PITBUL
+Edad: NAJSJ
+Color: JJKJ
+Sexo: BKJ
+Dueño: JBJ
+Dirección: B
+Ciudad: BH
+Teléfono: 5421334
+Email: BHSAH@HOTMAIL.COM
+
+Datos actualizados:
+ID: 25
+Nombre: PEPO
+Especie: JAJSK
+Raza: Pit Bull
+Edad: NAJSJ
+Color: JJKJ
+Sexo: BKJ
+Dueño: JBJ
+Dirección: B
+Ciudad: BH
+Teléfono: 5421334
+Email: BHSAH@HOTMAIL.COM
+
+
+2024-05-21 20:38:11 - Ingreso de nuevo registro: 
+Detalles del registro:
+Nombre: COCO, Especie: PPE, Raza: PIT BULL, Edad: 5, Color: JBKDHBK, Sexo: JBJBK, Dueño: KBHHJV, Dirección: HVJJHV, Ciudad: HVJHH, Teléfono: 32154641, Email: NDJAS@HOTMAIL.COM
+
+2024-05-21 20:42:36 - Modificación de registro: 
+Detalles del registro:
+ID: 24
+Datos anteriores:
+ID: 24
+Nombre: BROWN
+Especie: CAN
+Raza: PITBUL
+Edad: 4
+Color: ROJO
+Sexo: HEMBRA
+Dueño: PEP
+Dirección: SXBH
+Ciudad: ROSARIO
+Teléfono: 546423122
+Email: HAS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 24
+Nombre: BROWN
+Especie: CAN
+Raza: PIT BULL
+Edad: 4
+Color: ROJO
+Sexo: HEMBRA
+Dueño: PEP
+Dirección: SXBH
+Ciudad: ROSARIO
+Teléfono: 546423122
+Email: HAS@HOTMAIL.COM
+
+
+2024-05-21 20:59:07 - Modificación de registro: 
+Detalles del registro:
+ID: 23
+Datos anteriores:
+ID: 23
+Nombre: POROTON
+Especie: JSDJ
+Raza: N
+Edad: 55
+Color: VERDE
+Sexo: HKBHKB
+Dueño: KJ
+Dirección: KJB
+Ciudad: KJB
+Teléfono: 55687612032
+Email: NSDBJ@JKSKJ.COM
+
+Datos actualizados:
+ID: 23
+Nombre: POROTON
+Especie: JSDJ
+Raza: PIT BULL
+Edad: 55
+Color: VERDE
+Sexo: HKBHKB
+Dueño: KJ
+Dirección: KJB
+Ciudad: KJB
+Teléfono: 55687612032
+Email: NSDBJ@JKSKJ.COM
+
+
+2024-05-21 21:23:29 - Modificación de registro: 
+Detalles del registro:
+ID: 27
+Datos anteriores:
+ID: 27
+Nombre: POROTITO
+Especie: PEP
+Raza: Pit Bull
+Edad: 5
+Color: HJD
+Sexo: NKJ
+Dueño: JKBHB
+Dirección: HBKHB
+Ciudad: HBHJB
+Teléfono: 1546532132
+Email: LKASJDS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 27
+Nombre: POROTITO
+Especie: PEP
+Raza: Dogo Argentino
+Edad: 5
+Color: HJD
+Sexo: NKJ
+Dueño: JKBHB
+Dirección: HBKHB
+Ciudad: HBHJB
+Teléfono: 1546532132
+Email: LKASJDS@HOTMAIL.COM
+
+
+2024-05-21 21:28:13 - Modificación de registro: 
+Detalles del registro:
+ID: 26
+Datos anteriores:
+ID: 26
+Nombre: COPITO
+Especie: CONEJO
+Raza: Pit Bull
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 26
+Nombre: COPITO
+Especie: CONEJO
+Raza: Dogo Argentino
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+
+2024-05-21 21:37:59 - Modificación de registro: 
+Detalles del registro:
+ID: 26
+Datos anteriores:
+ID: 26
+Nombre: COPITO
+Especie: CONEJO
+Raza: Dogo Argentino
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 26
+Nombre: COPITO
+Especie: CONEJO
+Raza: Pit Bull
+Edad: 4
+Color: BJSKJB
+Sexo: JBBJ
+Dueño: BBB
+Dirección: HB
+Ciudad: HBJL
+Teléfono: 3216815
+Email: KJBASBS@HOTMAIL.COM
+
+
+2024-05-21 21:38:24 - Modificación de registro: 
+Detalles del registro:
+ID: 28
+Datos anteriores:
+ID: 28
+Nombre: COCO
+Especie: PPE
+Raza: PIT BULL
+Edad: 5
+Color: JBKDHBK
+Sexo: JBJBK
+Dueño: KBHHJV
+Dirección: HVJJHV
+Ciudad: HVJHH
+Teléfono: 32154641
+Email: NDJAS@HOTMAIL.COM
+
+Datos actualizados:
+ID: 28
+Nombre: COCO
+Especie: PPE
+Raza: coquer
+Edad: 5
+Color: JBKDHBK
+Sexo: JBJBK
+Dueño: KBHHJV
+Dirección: HVJJHV
+Ciudad: HVJHH
+Teléfono: 32154641
+Email: NDJAS@HOTMAIL.COM
+
+
